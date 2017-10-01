@@ -1,0 +1,5 @@
+name: BungeeSystem
+version: 0.1
+author: CoasterFreak
+description: BungeeSystem for CMSNetwork
+main: bungee.Main.main
